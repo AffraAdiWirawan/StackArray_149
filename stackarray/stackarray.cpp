@@ -10,7 +10,7 @@ private:
 
 public:
 	stackarray() {
-	
+		top = -1;
 	}
 };
 
