@@ -26,6 +26,9 @@ public:
 		cout << endl;
 		cout << element << " ditambahkan (pushed)" << endl;
 	}
+	void pop() {
+
+	}
 };
 
 int main()
