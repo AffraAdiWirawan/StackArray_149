@@ -27,6 +27,11 @@ public:
 		cout << element << " ditambahkan (pushed)" << endl;
 	}
 	void pop() {
+		if (empty()) {
+			cout << "\nStack is empty. Cannot pop." << endl;
+			return;
+		}
+
 
 	}
 };
