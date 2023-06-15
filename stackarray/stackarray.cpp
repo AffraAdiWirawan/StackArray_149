@@ -12,6 +12,10 @@ public:
 	stackarray() {
 		top = -1;
 	}
+
+	void push() {
+
+	}
 };
 
 int main()
