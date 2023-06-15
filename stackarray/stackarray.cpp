@@ -3,7 +3,9 @@
 
 using namespace std;
 
+class stackarray {
 
+};
 
 int main()
 {
